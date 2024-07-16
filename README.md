@@ -6,7 +6,7 @@ Student of CPE
 
 Seal,I am a student of the Faculty of Engineer.
 
-* 🌍  I'm based in Bangkok
+* 🌍  I'm based in Bangkok.
 * ✉️  You can contact me at [Sugusbbb6@gmail.com](mailto:Sugusbbb6@gmail.com)
 * 🧠  I'm learning c , c++ , Pypon , Javascript.
 
